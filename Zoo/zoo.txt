@@ -1,0 +1,11 @@
+Tier{name='Tigerbaby', alter=1}
+Tier{name='Pinguin', alter=5}
+Hund{name='Bob', alter=12, rasse='Laprador'}
+Hund{name='Rex_der_erste', alter=9, rasse='Pintcher'}
+Tier{name='Elefant', alter=25}
+Katze{name='Don Gato', alter=44, fellfarbe='Schwarz'}
+Katze{name='TESTLADEN', alter=1, fellfarbe='Gelb'}
+Tier{name='TestGUI', alter=2}
+Hund{name='HundGUItest', alter=12, rasse='Puddel'}
+Katze{name='FehlerTEST', alter=2, fellfarbe='Rot'}
+Hund{name='Bobby', alter=15, rasse='Irgendwas'}
